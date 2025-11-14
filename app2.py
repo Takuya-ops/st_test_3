@@ -77,7 +77,7 @@ st.write(
 
 st.divider()
 
-# 専門家の選択（ラジオボタン）
+# 専門家の選択(ラジオボタン)
 selected_expert = st.radio("相談したい専門家を選択してください", list(EXPERTS.keys()))
 
 # 質問入力フォーム
