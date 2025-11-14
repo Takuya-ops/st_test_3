@@ -101,7 +101,7 @@ if st.button("質問する", type="primary"):
             st.write(f"**専門家:** {selected_expert}")
             st.write(response)
     else:
-        st.error("質問を入力してから「質問する」ボタンを押してください。")
+        st.error("問を入力してから「質問する」ボタンを押してください。")
 
 # フッター
 st.divider()
