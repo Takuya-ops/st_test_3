@@ -168,7 +168,7 @@ oauthlib==3.2.2
 onnxruntime==1.19.2
 open3d==0.15.1
 openai==2.8.0
-openai-whisper @ git+https://github.com/openai/whisper.git@e58f28804528831904c3b6f2c0e473f346223433
+# openai-whisper @ git+https://github.com/openai/whisper.git@e58f28804528831904c3b6f2c0e473f346223433
 openapi-schema-pydantic==1.2.4
 opencv-contrib-python==4.8.0.74
 openpyxl==3.1.2
